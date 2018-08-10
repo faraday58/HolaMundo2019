@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMundo2019", "HolaMundo2019\HolaMundo2019.csproj", "{784020B7-AFC4-4A23-A2EC-E71BE946B0DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LlamadasTelefonicas", "LlamadasTelefonicas\LlamadasTelefonicas.csproj", "{106701BC-5E38-45E0-A365-4AEBE4A3C255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784020B7-AFC4-4A23-A2EC-E71BE946B0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784020B7-AFC4-4A23-A2EC-E71BE946B0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784020B7-AFC4-4A23-A2EC-E71BE946B0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784020B7-AFC4-4A23-A2EC-E71BE946B0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106701BC-5E38-45E0-A365-4AEBE4A3C255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106701BC-5E38-45E0-A365-4AEBE4A3C255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106701BC-5E38-45E0-A365-4AEBE4A3C255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106701BC-5E38-45E0-A365-4AEBE4A3C255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A9BB25E-78EE-44EA-92A0-A22E2B8BF461}
+	EndGlobalSection
+EndGlobal
